@@ -1,4 +1,4 @@
-# EAS2655_S25 : Quantitative techniques for EAS
+# EAS2655 : Quantitative techniques for EAS, Spring 2025
 
 Welcome to the EAS2655 repository for Spring 2025! 
 
