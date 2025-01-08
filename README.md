@@ -6,7 +6,7 @@ We will be using Python in Google Colab as the coding environment for this cours
 No problem if you don't have previous experiences with Python and/or Google Colab. 
 Our goal is to develop the fundamental understanding in how we approach data analysis in Earth Sciences. 
 Mastering convenient features of Google Colab and Python libraries is NOT the goal of this course. 
-The skills we develop will hopefully applicable even if you use different coding environment in the future. 
+The skills we develop will be applicable even if you use different coding environment in the future. 
 
 ## Getting started
 
